@@ -72,7 +72,7 @@ export default function TaskModal({ onClickModal }) {
 	return (
 		<>
 			<div className="bg-black bg-opacity-70 fixed inset-0 z-50 h-full overflow-y-auto min-h-screen">
-				<form className="mx-auto absolute z-10 top-1/4 left-1/4 my-3 w-full max-w-[740px] rounded-xl border border-[#FEFBFB]/[36%] bg-[#191D26] p-9 max-md:px-4 lg:my-20 lg:p-11">
+				<form className="mx-auto absolute z-10 top-6 left-1/4 my-3 w-full max-w-[740px] rounded-xl border border-[#FEFBFB]/[36%] bg-[#191D26] p-9 max-md:px-4 lg:my-20 lg:p-11">
 					<h2 className="mb-9 text-center text-2xl font-bold text-white lg:mb-11 lg:text-[28px]">
 						Add New Task
 					</h2>
